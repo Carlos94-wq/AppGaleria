@@ -1,0 +1,12 @@
+C:\Users\Charly\source\repos\Fotos\Fotos.Infra\bin\Debug\netstandard2.0\Fotos.Core.dll
+C:\Users\Charly\source\repos\Fotos\Fotos.Infra\obj\Debug\netstandard2.0\Fotos.Infra.csprojAssemblyReference.cache
+C:\Users\Charly\source\repos\Fotos\Fotos.Infra\obj\Debug\netstandard2.0\Fotos.Infra.AssemblyInfoInputs.cache
+C:\Users\Charly\source\repos\Fotos\Fotos.Infra\obj\Debug\netstandard2.0\Fotos.Infra.AssemblyInfo.cs
+C:\Users\Charly\source\repos\Fotos\Fotos.Infra\bin\Debug\netstandard2.0\Fotos.Infra.deps.json
+C:\Users\Charly\source\repos\Fotos\Fotos.Infra\bin\Debug\netstandard2.0\Fotos.Infra.dll
+C:\Users\Charly\source\repos\Fotos\Fotos.Infra\bin\Debug\netstandard2.0\Fotos.Infra.pdb
+C:\Users\Charly\source\repos\Fotos\Fotos.Infra\bin\Debug\netstandard2.0\Fotos.Core.pdb
+C:\Users\Charly\source\repos\Fotos\Fotos.Infra\obj\Debug\netstandard2.0\Fotos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\Fotos\Fotos.Infra\obj\Debug\netstandard2.0\Fotos.Infra.csproj.CopyComplete
+C:\Users\Charly\source\repos\Fotos\Fotos.Infra\obj\Debug\netstandard2.0\Fotos.Infra.dll
+C:\Users\Charly\source\repos\Fotos\Fotos.Infra\obj\Debug\netstandard2.0\Fotos.Infra.pdb

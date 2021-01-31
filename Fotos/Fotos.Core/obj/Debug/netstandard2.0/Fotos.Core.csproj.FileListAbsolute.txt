@@ -1,0 +1,9 @@
+C:\Users\Charly\source\repos\Fotos\Fotos.Core\bin\Debug\netstandard2.0\Fotos.Core.deps.json
+C:\Users\Charly\source\repos\Fotos\Fotos.Core\bin\Debug\netstandard2.0\Fotos.Core.dll
+C:\Users\Charly\source\repos\Fotos\Fotos.Core\bin\Debug\netstandard2.0\Fotos.Core.pdb
+C:\Users\Charly\source\repos\Fotos\Fotos.Core\obj\Debug\netstandard2.0\Fotos.Core.csprojAssemblyReference.cache
+C:\Users\Charly\source\repos\Fotos\Fotos.Core\obj\Debug\netstandard2.0\Fotos.Core.AssemblyInfoInputs.cache
+C:\Users\Charly\source\repos\Fotos\Fotos.Core\obj\Debug\netstandard2.0\Fotos.Core.AssemblyInfo.cs
+C:\Users\Charly\source\repos\Fotos\Fotos.Core\obj\Debug\netstandard2.0\Fotos.Core.csproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\Fotos\Fotos.Core\obj\Debug\netstandard2.0\Fotos.Core.dll
+C:\Users\Charly\source\repos\Fotos\Fotos.Core\obj\Debug\netstandard2.0\Fotos.Core.pdb
